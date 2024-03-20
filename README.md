@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Yuliyan, 👋
+a recent Telerik Academy graduate on a mission to transform my theoretical knowledge into practical expertise.
+I'm searching for my next challenge where I can immerse myself in technology, refine my skills, and make a tangible impact.
+Ready to take the leap and grow with a team that values innovation and collaboration.
+
 
 <!--
 **GLion31023/GLion31023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
