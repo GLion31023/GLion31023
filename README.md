@@ -11,7 +11,7 @@ A recent Telerik Academy graduate on a mission to transform my theoretical knowl
 - **Personal Project Space**: A collection of diverse projects.
   - **Virtual Games Hub**: Play games like Hangman, where you test your vocabulary to guess hidden words, and Craps, a dice game where luck and strategy meet, all through command-line commands.
   - **Task-Board Project**: Manage tasks and issues efficiently. Add tasks, log activities, track changes with statuses, assign tasks to users, and more.
-  - **Educational Worm**: Practice file manipulation ands script self-replication, a glimpse on cybersecurity.
+  - **Educational Worm**: Practice file manipulation and script self-replication, offering a glimpse into cybersecurity.
 - **LeetCode**: Solving a variety of LeetCode problems to improve problem-solving skills and deepen understanding of data structures and algorithms. Current focus areas include Arrays & Hashing, Two Pointers, Stack, Binary Search, Sliding Window, Linked List, and Trees.
 - **Poker Decision Support System**: A pre-flop range decision support system designed to help poker players make optimal decisions based on GTO (game theory optimization). (Coming Soon)
   
