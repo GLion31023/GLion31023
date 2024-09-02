@@ -13,8 +13,6 @@ A recent Telerik Academy graduate on a mission to transform my theoretical knowl
   - **Task-Board Project**: Manage tasks and issues efficiently. Add tasks, log activities, track changes with statuses, assign tasks to users, and more.
   - **Educational Worm**: Practice file manipulation and script self-replication, offering a glimpse into cybersecurity.
 - **LeetCode**: Solving a variety of LeetCode problems to improve problem-solving skills and deepen understanding of data structures and algorithms. Current focus areas include Arrays & Hashing, Two Pointers, Stack, Binary Search, Sliding Window, Linked List, and Trees.
-- **Poker Decision Support System**: A pre-flop range decision support system designed to help poker players make optimal decisions based on GTO (game theory optimization). (Coming Soon)
-  
 
 ### Let's Connect
 - LinkedIn: [Yuliyan Stoilov](www.linkedin.com/in/yuliyan-stoilov)
