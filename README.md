@@ -12,7 +12,7 @@ A recent Telerik Academy graduate on a mission to transform my theoretical knowl
   - **Virtual Games Hub**: Play games like Hangman, where you test your vocabulary to guess hidden words, and Craps, a dice game where luck and strategy meet, all through command-line commands.
   - **Task-Board Project**: Manage tasks and issues efficiently. Add tasks, log activities, track changes with statuses, assign tasks to users, and more.
   - **Educational Worm**: Practice file manipulation and script self-replication, offering a glimpse into cybersecurity.
-- **LeetCode**: Solving a variety of LeetCode problems to improve problem-solving skills and deepen understanding of data structures and algorithms. Current focus areas include Arrays & Hashing, Two Pointers, Stack, Binary Search, Sliding Window, Linked List, and Trees.
+- **LeetCode**: Solving a variety of LeetCode problems to improve problem-solving skills and deepen understanding of data structures and algorithms. Current focus areas include Arrays & Hashing, Two Pointers, Stack, Binary Search, Sliding Window, Linked List, Trees and Databases. 100+ problems solved.
 
 ### Let's Connect
 - LinkedIn: [Yuliyan Stoilov](www.linkedin.com/in/yuliyan-stoilov)
